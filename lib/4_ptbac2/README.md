@@ -5,7 +5,7 @@ Do không có kinh nghiệm trong C nên em sẽ hỏi chatGPT "cách để 
 
 Cách giải chatGPT em giữ nguyên sau khi đã test và kiểm tra, file này là quadratic_solver.c nằm trong mục android của my_native.
 
-Tiếp theo là cách gọi hàm để dùng trong C em làm theo [Tích hợp thư viện C/C++ vào một dự án Flutter như thế nào?](https://viblo.asia/p/tich-hop-thu-vien-cc-vao-mot-du-an-flutter-nhu-the-nao-V3m5WmE7ZO7).
+Tiếp theo là cách gọi hàm để dùng trong flutter em làm theo [Tích hợp thư viện C/C++ vào một dự án Flutter như thế nào?](https://viblo.asia/p/tich-hop-thu-vien-cc-vao-mot-du-an-flutter-nhu-the-nao-V3m5WmE7ZO7).
 
 Dựa theo hướng dẫn này em mới hỏi chatGPT yêu cầu giải thích rõ nếu tác giả có đoạn nào chưa giải thích kỹ vì hỏi chatGPT ngay từ đầu sẽ hay bị hướng dẫn cách cầu toàn, dài dòng, hay phải sửa lỗi hơn.
 
