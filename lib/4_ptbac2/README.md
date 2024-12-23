@@ -13,3 +13,5 @@ Cuối cùng sau khi thiết lập xong cầu nối cho flutter, logic hi�
 
 KẾT QUẢ:
 
+  <img src="https://github.com/user-attachments/assets/e9fbaf54-a099-4c64-b9c0-057de309e447" width="300"/>
+  <img src="https://github.com/user-attachments/assets/19740ce4-413d-43dd-9b6d-5bedf1471e8d" width="300"/>
