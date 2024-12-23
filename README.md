@@ -4,7 +4,7 @@ Flutter projects. Flutter 3.27.1, Dart 3.6.0 .
 
 Projects overview:
 - Pendulum Simulation
-<img src="https://github.com/user-attachments/assets/ce2d76c1-7782-4177-a134-658de6043730" width="300"/>
+  <img src="https://github.com/user-attachments/assets/ce2d76c1-7782-4177-a134-658de6043730" width="300"/>
 
 - Memory Face  
   <img src="https://github.com/user-attachments/assets/f980ccdd-4816-4fe3-9be8-789f75624e25" width="300"/>
