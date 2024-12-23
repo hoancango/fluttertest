@@ -1,5 +1,6 @@
 
 1_ pendulum
+
 Hướng giải đầu tiên em nghĩ tới trước khi tham khảo là cố gắng tạo ra một điểm dao động theo đường cong ,rồi từ điểm đó để nối dây và vẽ vòng tròn.
 Tuy nhiên, em không rõ cách làm animation trong dart nên phải tham khảo chatGPT bằng câu hỏi "Cách mô phỏng chuyển động con lắc đơn trong flutter" và chatGPT đưa ra code như trong file chatGPTPendulum.dart
 
