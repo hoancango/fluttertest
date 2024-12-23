@@ -3,7 +3,7 @@
 
 Do không có kinh nghiệm trong C nên em sẽ hỏi chatGPT "cách để viết một hàm giải phương trình bậc 2 vào bằng ngôn ngữ C".
 
-Cách giải chatGPT em giữ nguyên sau khi đã test và kiểm tra, file này lầ quadratic_solver.c nằm trong mục android của my_native.
+Cách giải chatGPT em giữ nguyên sau khi đã test và kiểm tra, file này là quadratic_solver.c nằm trong mục android của my_native.
 
 Tiếp theo là cách gọi hàm để dùng trong C em làm theo [Tích hợp thư viện C/C++ vào một dự án Flutter như thế nào?](https://viblo.asia/p/tich-hop-thu-vien-cc-vao-mot-du-an-flutter-nhu-the-nao-V3m5WmE7ZO7).
 
