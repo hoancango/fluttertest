@@ -1,0 +1,3 @@
+C:/Users/PC/StudioProjects/flutterTest/android/app/.cxx/Debug/33q135u2/armeabi-v7a/CMakeFiles/my_native.dir
+C:/Users/PC/StudioProjects/flutterTest/android/app/.cxx/Debug/33q135u2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/PC/StudioProjects/flutterTest/android/app/.cxx/Debug/33q135u2/armeabi-v7a/CMakeFiles/rebuild_cache.dir

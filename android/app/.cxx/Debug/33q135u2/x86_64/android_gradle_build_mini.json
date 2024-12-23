@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\PC\\StudioProjects\\flutterTest\\my_native\\android\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\PC\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\PC\\StudioProjects\\flutterTest\\android\\app\\.cxx\\Debug\\33q135u2\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\PC\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\PC\\StudioProjects\\flutterTest\\android\\app\\.cxx\\Debug\\33q135u2\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "my_native::@6890427a1f51a3e7e1df": {
+      "artifactName": "my_native",
+      "abi": "x86_64",
+      "output": "C:\\Users\\PC\\StudioProjects\\flutterTest\\build\\app\\intermediates\\cxx\\Debug\\33q135u2\\obj\\x86_64\\libmy_native.so",
+      "runtimeFiles": []
+    }
+  }
+}
