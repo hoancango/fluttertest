@@ -12,7 +12,9 @@ Projects Overview:
   <img src="https://github.com/user-attachments/assets/f980ccdd-4816-4fe3-9be8-789f75624e25" width="300"/>
   
 - Play Audio
+  
   [Youtube](https://youtube.com/shorts/s-_N8uYktjE?si=8GM1kUkzO3ph0JuV)
+  
   [![Video](https://img.youtube.com/vi/s-_N8uYktjE/0.jpg)](https://youtube.com/shorts/s-_N8uYktjE?si=8GM1kUkzO3ph0JuV)
   
 - Quadratic Solver
