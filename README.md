@@ -23,10 +23,10 @@ Projects Overview:
   
 - Quadratic Solver
   
-  <img src="https://github.com/user-attachments/assets/e9fbaf54-a099-4c64-b9c0-057de309e447" width="100"/>
-  <img src="https://github.com/user-attachments/assets/19740ce4-413d-43dd-9b6d-5bedf1471e8d" width="100"/>
-  <img src="https://github.com/user-attachments/assets/0fb9eaeb-008c-426e-81dc-9b2a76760740" width="100"/>
-  <img src="https://github.com/user-attachments/assets/4b854d79-31c3-476e-b563-05888b2db128" width="100"/>
+  <img src="https://github.com/user-attachments/assets/e9fbaf54-a099-4c64-b9c0-057de309e447" width="300"/>
+  <img src="https://github.com/user-attachments/assets/19740ce4-413d-43dd-9b6d-5bedf1471e8d" width="300"/>
+  <img src="https://github.com/user-attachments/assets/0fb9eaeb-008c-426e-81dc-9b2a76760740" width="300"/>
+  <img src="https://github.com/user-attachments/assets/4b854d79-31c3-476e-b563-05888b2db128" width="300"/>
 
 
 
